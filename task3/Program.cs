@@ -26,5 +26,7 @@ switch (day)
     case 7:
         Console.WriteLine("Yes");
         break;
-
+    default:
+        Console.WriteLine("Not found");
+        break;
 }
