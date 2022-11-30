@@ -1,7 +1,4 @@
-﻿// Напишите программу, которая принимает на вход цифру, 
-// обозначающую день недели, и проверяет, является ли этот день выходным.
-
-Console.Write("Enter the day of the week: ");
+﻿Console.Write("Enter the day of the week: ");
 int day = Convert.ToInt32(Console.ReadLine());
 switch (day)
 {
